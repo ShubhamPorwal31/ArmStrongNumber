@@ -1,6 +1,6 @@
 package primeNumer;
 
-public class primeNumberDemo {
+public class primeNumber {
 
 	public static void main(String[] args) {
 		
