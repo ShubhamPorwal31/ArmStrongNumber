@@ -3,13 +3,8 @@ package primeNumer;
 public class ReverseString {
 
 	public static void main(String[] args) {
-		String input = "porwal";
-		
-//		 StringBuilder s =  new StringBuilder();
-//		       s.append(input);
-//		       StringBuilder b = s.reverse();
-//				 System.out.println(b);
-		
+		String input = "test";
+
 		// converting string into bytes 
 		
 		byte [] sysArray = input.getBytes();
